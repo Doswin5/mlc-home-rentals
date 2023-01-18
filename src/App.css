@@ -1,0 +1,40 @@
+h1 {
+  font-size: 56px;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 40px;
+  line-height: 1.4;
+  font-weight: 800;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+h4 {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+textarea {
+  resize: none;
+}
+a, p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.btn1 {
+  padding: 16px 32px;
+  background-color: #F4511E;
+  color: white;
+  font-weight: 500;
+} 
+
+.lightBorderBottom {
+  border-bottom: 0.5px solid rgb(212, 212, 212);
+}

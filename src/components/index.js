@@ -1,0 +1,8 @@
+export { default as Navbar } from './Navbar'
+export { default as HeroSection } from './HeroSection'
+export { default as MinimumLivingCost } from './MinimumLivingCost'
+export { default as PropertyList } from './PropertyList'
+export { default as Flexibility } from './Flexibility'
+export { default as NewProperty } from './NewProperty'
+export { default as Testimonials } from './Testimonials'
+export { default as Footer } from './Footer'
